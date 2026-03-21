@@ -15,3 +15,6 @@ Realizamos o simulado da [2025-2026 ICPC Northwestern European Regional Programm
 
 ### 14/03: Competição Individual no Atcoder - 1:40 de prova 
 Participei da competição [AtCoder Beginner Contest 449](https://atcoder.jp/contests/abc449).
+
+### 20/03: Treino em time no CEC - 4 horas 
+Realizamos o simulado da [2025-2026 ICPC Southwestern European Regional Contest (SWERC 2025)](https://codeforces.com/gym/106225) com o nome do time sendo Please please please dont prove Im wrong. 
