@@ -30,5 +30,5 @@ Participei da competição [AtCoder Beginner Contest 451](https://atcoder.jp/con
 
 ## Abril - Horas totais: 3 horas 
 
-### 02/04 - Problemas da MFP 2025 - Fase Final 
+### 02/04 - Problemas da MFP 2025 - Fase Final - 3 horas 
 Realizei alguns problemas da última fase da Maratona Feminina de Programação de 2025, que podem ser encontrados no link: [MFP 2025 - Fase Final](https://codeforces.com/group/9CNwiex6Ir/contest/620475)
