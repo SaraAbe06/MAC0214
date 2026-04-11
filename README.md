@@ -28,7 +28,13 @@ Realizamos o simulado da [2024-2025 ICPC Southwestern European Regional Contest 
 ### 28/03: Competição Individual no Atcoder - 1:40 de prova 
 Participei da competição [AtCoder Beginner Contest 451](https://atcoder.jp/contests/abc451).
 
-## Abril - Horas totais: 3 horas 
+## Abril - Horas totais: 10 horas 
 
 ### 02/04 - Problemas da MFP 2025 - Fase Final - 3 horas 
 Realizei alguns problemas da última fase da Maratona Feminina de Programação de 2025, que podem ser encontrados no link: [MFP 2025 - Fase Final](https://codeforces.com/group/9CNwiex6Ir/contest/620475)
+
+### 10/04 - Problemas da MFP 2025 - Fase Final - 4 horas 
+Realizei alguns problemas da última fase da Maratona Feminina de Programação de 2025, que podem ser encontrados no link: [MFP 2025 - Fase Final](https://codeforces.com/group/9CNwiex6Ir/contest/620475). Mais especificamente, resolvi o problema I e tentei o problema G. Para o problema I tive que aprender Bitmask DP também, como pode ser vista em [Bitmask DP - usaco](https://usaco.guide/gold/dp-bitmasks?lang=cpp).
+
+### 11/04: Competição Individual no Codeforces - 2:15 de prova + 0:45 de upsolving - 3 horas  
+Simulei a competição [Educational Codeforces Round 188 (Rated for Div. 2)](https://codeforces.com/contest/2204).
