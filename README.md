@@ -38,3 +38,9 @@ Realizei alguns problemas da última fase da Maratona Feminina de Programação 
 
 ### 11/04: Competição Individual no Codeforces - 2:15 de prova + 0:45 de upsolving - 3 horas  
 Simulei a competição [Educational Codeforces Round 188 (Rated for Div. 2)](https://codeforces.com/contest/2204).
+
+### 17/04: Treino em time no CEC - 4 horas 
+Realizamos o simulado da [2025 ICPC Gran Premio de Mexico 3ra Fecha](https://codeforces.com/gym/106063) com o nome do time sendo Please please please dont prove Im wrong. Neste treino, a equipe estava com menos pessoas, por isso, realizamos menos problemas que o normal. 
+
+### 18/04: Competição Individual no Codeforces - 2:30 de prova + 0:30 de upsolving - 3 horas  
+Simulei a competição [Codeforces Round 1082 (Div. 2)](https://codeforces.com/contest/2202).
