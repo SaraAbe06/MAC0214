@@ -28,7 +28,7 @@ Realizamos o simulado da [2024-2025 ICPC Southwestern European Regional Contest 
 ### 28/03: Competição Individual no Atcoder - 1:40 de prova 
 Participei da competição [AtCoder Beginner Contest 451](https://atcoder.jp/contests/abc451).
 
-## Abril - Horas totais: 20 horas 
+## Abril - Horas totais: 27 horas 
 
 ### 02/04 - Problemas da MFP 2025 - Fase Final - 3 horas 
 Realizei alguns problemas da última fase da Maratona Feminina de Programação de 2025, que podem ser encontrados no link: [MFP 2025 - Fase Final](https://codeforces.com/group/9CNwiex6Ir/contest/620475)
@@ -47,3 +47,10 @@ Simulei a competição [Codeforces Round 1082 (Div. 2)](https://codeforces.com/c
 
 ### 23/04: Técnicas com DP - 3 horas
 Estudei a matéria Range DP, que pode ser encontrado em [Range DP - usaco](https://usaco.guide/gold/dp-ranges?lang=cpp), e resolvi alguns problemas dessa matéria. 
+
+### 24/04: Treino em time - 4 horas 
+Realizamos o simulado da [Swiss Subregional 2025-2026](https://codeforces.com/gym/106170) com o nome do time sendo Please please please dont prove Im wrong.
+
+### 25/04: Técnicas com DP - 3 horas
+Estudei a matéria Digit DP, que pode ser encontrado em [Digit DP - usaco](https://usaco.guide/gold/digit-dp?lang=cpp), e resolvi alguns problemas dessa matéria. 
+
