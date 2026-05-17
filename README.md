@@ -57,7 +57,7 @@ Estudei a matéria Digit DP, que pode ser encontrado em [Digit DP - usaco](https
 ### 26/04: Seletiva USP pra MPP 2026 - 5 horas 
 Realizamos a prova oficial da Seletiva USP para a MPP (Maratona Paulista de Programação). Ficamos em 4⁰ lugar dos times inscritos na seletiva. Pode ser encontrado em [Seletiva MPP 2026](https://codeforces.com/gym/688480). 
 
-## Maio - Horas totais: 9 horas 
+## Maio - Horas totais: 12 horas 
 
 ### 08/05: Upsolving - 3 horas 
 Como um membro do time tinha um compromisso, realizamos o upsolving da prova [2024-2025 ICPC Southwestern European Regional Contest (SWERC 2024)](https://codeforces.com/gym/105677) 
@@ -68,3 +68,5 @@ Resolvi problemas da competição [Educational Codeforces Round 187 (Rated for D
 ### 11/05: Meet in the Middle - 4 horas 
 Estudei a matéria Meet in the Middle, que pode ser encontrado em [Meet in the Middle - usaco](https://usaco.guide/gold/meet-in-the-middle?lang=cpp), e resolvi alguns problemas dessa matéria. 
 
+### 15/05: DP in Trees - 3 horas 
+Estudei a matéria DP on Trees, que pode ser encontrado em [DP on Trees - usaco](https://usaco.guide/gold/dp-trees#taking-one-edge), e resolvi alguns problemas dessa matéria. 
