@@ -57,7 +57,7 @@ Estudei a matéria Digit DP, que pode ser encontrado em [Digit DP - usaco](https
 ### 26/04: Seletiva USP pra MPP 2026 - 5 horas 
 Realizamos a prova oficial da Seletiva USP para a MPP (Maratona Paulista de Programação). Ficamos em 4⁰ lugar dos times inscritos na seletiva. Pode ser encontrado em [Seletiva MPP 2026](https://codeforces.com/gym/688480). 
 
-## Maio - Horas totais: 18 horas 
+## Maio - Horas totais: 21 horas 
 
 ### 08/05: Upsolving - 3 horas 
 Como um membro do time tinha um compromisso, realizamos o upsolving da prova [2024-2025 ICPC Southwestern European Regional Contest (SWERC 2024)](https://codeforces.com/gym/105677) 
@@ -76,4 +76,7 @@ Estudei a matéria Euler Tour, que pode ser encontrado em [Euler Tour- usaco](ht
 
 ### 22/05: DSU - 3 horas 
 Estudei a matéria DSU, que pode ser encontrado em [DSU- usaco](https://usaco.guide/gold/dsu?lang=cpp), e resolvi alguns problemas dessa matéria. 
+
+### 23/05: MFP - 3 horas 
+Realizei a prova individual da MFP (Maratona Feminina de Programação) primeira fase 2026. Resolvi 7 de 8 problemas.
 
