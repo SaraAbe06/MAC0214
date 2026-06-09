@@ -82,3 +82,9 @@ Realizei a prova individual da MFP (Maratona Feminina de Programação) primeira
 
 ### 29/05: Small to Large - 4 horas 
 Estudei a matéria Small to Large, que pode ser encontrado em [Small to Large- usaco](https://usaco.guide/plat/merging), e resolvi alguns problemas dessa matéria. 
+
+## Junho - Horas totais: 4 horas 
+
+### 06/06: Competição Individual no Codeforces - 2:00 de prova + 1:00 de upsolving + 1:00 aprender a matéria - 4 horas  
+Simulei a competição [Educational Codeforces Round 189 (Rated for Div. 2)](https://codeforces.com/contest/2225). Além disso, estudei a matéria Inclusion-Exclusion Principle, que pode ser encontrado em  [Inclusion-Exclusion Principle-usaco](https://usaco.guide/plat/PIE).
+
