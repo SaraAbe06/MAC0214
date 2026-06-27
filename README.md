@@ -83,7 +83,7 @@ Realizei a prova individual da MFP (Maratona Feminina de Programação) primeira
 ### 29/05: Small to Large - 4 horas 
 Estudei a matéria Small to Large, que pode ser encontrado em [Small to Large- usaco](https://usaco.guide/plat/merging), e resolvi alguns problemas dessa matéria. 
 
-## Junho - Horas totais: 7 horas 
+## Junho - Horas totais: 20 horas 
 
 ### 06/06: Competição Individual no Codeforces - 2:00 de prova + 1:00 de upsolving + 1:00 aprender a matéria - 4 horas  
 Simulei a competição [Educational Codeforces Round 189 (Rated for Div. 2)](https://codeforces.com/contest/2225). Além disso, estudei a matéria Inclusion-Exclusion Principle, que pode ser encontrado em  [Inclusion-Exclusion Principle-usaco](https://usaco.guide/plat/PIE).
@@ -91,4 +91,11 @@ Simulei a competição [Educational Codeforces Round 189 (Rated for Div. 2)](htt
 ### 13/06: Competição Individual no Codeforces - 2:00 de prova + 1:00 de upsolving - 3 horas  
 Simulei a competição [Educational Codeforces Round 186 (Rated for Div. 2)](https://codeforces.com/contest/2182).
 
+### 19/06: Treino em time no CEC - 5 horas 
+Realizamos o simulado da [2024-2025 ICPC Northwestern European Regional Programming Contest (NWERC 2024)](https://codeforces.com/gym/105562) com o nome do time sendo Please please please dont prove Im wrong.
 
+### 20/06: Competição Individual no Codeforces - 3:00 de prova - 3 horas  
+Simulei a competição [Codeforces Round 1077 (Div. 2)](https://codeforces.com/contest/2188).
+
+### 26/06: Treino em time no CEC - 5 horas 
+Realizamos o simulado da [II SBC São Paulo Programming Marathon](https://codeforces.com/gym/106598) com o nome do time sendo Please please please dont prove Im wrong. Tivemos probelmas de conexão com o site codeforces. 
